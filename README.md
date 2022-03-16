@@ -28,6 +28,8 @@ Here's a walkthrough of implemented user stories:
 
 <img src='http://g.recordit.co/3BI3Ghrn8t.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
+# Twitter - Part I
+
 Time spent: 5-6 hours spent in total
 
 ## User Stories
